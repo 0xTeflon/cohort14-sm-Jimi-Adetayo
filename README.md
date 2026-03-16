@@ -8,8 +8,8 @@ A simple ERC721 NFT contract for minting onchain NFTs with customizable token UR
 
 | Item                               | Address                                                                                |
 | ---------------------------------- | -------------------------------------------------------------------------------------- |
-| **Contract Address**               | `0x8baee5E8cc6401275DabF191a5C399721f7D01a5`                                           |
-| **NFT Address (Same as Contract)** | (https://sepolia-blockscout.lisk.com/token/0x8baee5E8cc6401275DabF191a5C399721f7D01a5) |
+| **Contract Address**               | `0x5FbDB2315678afecb367f032d93F642f64180aa3`                                           |
+| **NFT Address (Same as Contract)** | (https://sepolia-blockscout.lisk.com/token/0x5FbDB2315678afecb367f032d93F642f64180aa3) |
 
 ## Contract Information
 
